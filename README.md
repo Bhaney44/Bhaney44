@@ -35,8 +35,6 @@ The Book is called High Technology Patents, but really it's a Book that teaches 
 
 [Blockchain: Post-Quantum Security & Legal Economics](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1501&context=ncbi) 
 
-[Algorand Autononous (Top Prize Winner at the 2021 MIT Bitcoin Expo Hackathon)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055)
-
 [Statistical Securities Compliance on Solana](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4189147)
 
 [Automated Source Selection Scoring & FAR Compliance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3261360)
@@ -80,6 +78,8 @@ The Book is called High Technology Patents, but really it's a Book that teaches 
 [Choice Ccoin Security Audit (Project Manager)](https://github.com/ChoiceCoin/Voting_DApp/tree/main/SecurityAudit)
 
 [Choice Coin v2 Security Audit (Author and Auditor)](https://github.com/ChoiceCoin/v2/tree/main/Security)
+
+[Algorand Autononous (Top Prize Winner at the 2021 MIT Bitcoin Expo Hackathon)](https://github.com/Bhaney44/Cryptots)
 
 # Select Startups and Projects
 [Tego](https://www.tegotech.org/) 
