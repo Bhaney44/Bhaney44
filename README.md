@@ -14,7 +14,7 @@ I also have a publication list on [Google Scholar](https://scholar.google.com/ci
 # Book
 [High Technology Patents (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3917614).
 
-My Book is avaiable free and open source under a creative commons license.
+My Book is available free and open source under a creative commons license.
 The Book is called High Technology Patents, but really it's a Book that teaches you to invent a solution to any problem.
 
 # Select Academic Publications
