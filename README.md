@@ -6,8 +6,6 @@ It is an amazing time to be alive when we have access to artificial general inte
 AGI means we have the power to solve any problem.
 As an inventor, my focus is on solving problems with mechanisms, machines, and formal processes.
 
-My main focus right now is earning financial freedom by solving software problems in Web 3.
-I am currently building on [Base](https://www.base.org/name/greenrex).
 You can learn more about me on [BrianHaney.org](https://www.brianhaney.org/).
 I also have a publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=6_XhYkQAAAAJ).
 
