@@ -79,7 +79,9 @@ The Book is called High Technology Patents, it's a Book that teaches you to inve
 
 [Algorand Autononous (Top Prize Winner at the 2021 MIT Bitcoin Expo Hackathon)](https://github.com/Bhaney44/Cryptots)
 
-# Select Startups and Projects
+# Startups and Projects
 [Tego](https://www.tegotech.org/) 
+
+[Martian](https://www.martianspace.net)
 
 [Choice](https://www.choice-coin.com/)
