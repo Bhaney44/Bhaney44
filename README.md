@@ -1,4 +1,4 @@
-# About Green Rex
+# About Me
 
 I am an inventor. 
 
