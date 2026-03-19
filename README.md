@@ -73,7 +73,7 @@ The Book is called High Technology Patents, it's a Book that teaches you to inve
 
 [Choice Coin ERC20 Smart Contract](https://basescan.org/token/0x72b423d98d98d509e66e9c565873c3e63ee4c7ab#code)
 
-[Choice Ccoin Security Audit (Project Manager)](https://github.com/ChoiceCoin/Voting_DApp/tree/main/SecurityAudit)
+[Choice Coin Security Audit (Project Manager)](https://github.com/ChoiceCoin/Voting_DApp/tree/main/SecurityAudit)
 
 [Choice Coin v2 Security Audit (Author and Auditor)](https://github.com/ChoiceCoin/v2/tree/main/Security)
 
