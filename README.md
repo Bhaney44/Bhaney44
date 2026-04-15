@@ -9,12 +9,6 @@ As an inventor, my focus is on solving problems with mechanisms, machines, and f
 You can learn more about me on [BrianHaney.org](https://www.brianhaney.org/).
 I also have a publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=6_XhYkQAAAAJ).
 
-# Book
-[High Technology Patents (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3917614).
-
-My Book is available free and open source under a creative commons license.
-The Book is called High Technology Patents, it's a Book that teaches you to invent a solution to any problem.
-
 # Select Academic Publications
 
 [Reinforcement Learning Patents: A Transatlantic Review](https://law.stanford.edu/publications/no-63-reinforcement-learning-patents-a-transatlantic-review/)
@@ -86,6 +80,13 @@ The Book is called High Technology Patents, it's a Book that teaches you to inve
 [Choice Coin v2 Security Audit (Author and Auditor)](https://github.com/ChoiceCoin/v2/tree/main/Security)
 
 [Algorand Autononous (Top Prize Winner at the 2021 MIT Bitcoin Expo Hackathon)](https://github.com/Bhaney44/Cryptots)
+
+# Book
+[High Technology Patents (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3917614).
+
+My Book is available free and open source under a creative commons license.
+The Book is called High Technology Patents, it's a Book that teaches you to invent a solution to any problem.
+
 
 # Startups and Projects
 [Tego](https://www.tegotech.org/) 
