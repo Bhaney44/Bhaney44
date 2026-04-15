@@ -45,9 +45,17 @@ The Book is called High Technology Patents, it's a Book that teaches you to inve
 
 # Patent Publications
 
-[US20220281938A1, Biotechnology for curing hypothyroidism (2021).](https://patents.google.com/patent/US20220281938A1/en)
+[US20260083906A1, Mechanisms for Thyroid Hormone Delivery (2026).](https://patents.google.com/patent/US20260083906A1/en)
+
+[US20260036102A1, Device for Autonomous Rocketry (2026).](https://patents.google.com/patent/US20260036102A1/en)
+
+[US20250326504A1, Device and methods for satellite control and collision avoidance using artificial intelligence (2025).](https://patents.google.com/patent/US20250326504A1/en)
+
+[US20260009622A1, Methods and Device for Autonomous Missile Control (2024).](https://patents.google.com/patent/US20260009622A1/en)
 
 [US20230347050A1, Synthetic thyroid methods and apparatus (2022).](https://patents.google.com/patent/US20230347050A1/en)
+
+[US20220281938A1, Biotechnology for curing hypothyroidism (2021).](https://patents.google.com/patent/US20220281938A1/en)
 
 [US20230065435A1, Decentralized voting using quantum intelligence (2021).](https://patents.google.com/patent/US20230065435A1/en)
 
